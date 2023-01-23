@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YounesRabeh, a computer science student
-- 👀 I’m interested in technology
+- 👀 I’m interested in robotics and AI
 - 🌱 I’m currently learning programming, maths and physics
 - 📫 How to reach me rabehyounes@9gmail.com
 
