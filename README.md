@@ -1,4 +1,4 @@
-# Hi there! Younes Here 👋
+# Hi! Younes Here 👋
 
 I'm a computer science student with a passion for robotics, simulations, and AI. Currently, I'm diving deep into programming, mathematics, and physics to strengthen my foundation in these fields.
 
