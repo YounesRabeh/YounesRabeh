@@ -3,7 +3,7 @@
 I'm a computer science student with a passion for robotics, simulations, and AI. Currently, I'm diving deep into programming, mathematics, and physics to strengthen my foundation in these fields.
 
 ## 🌌 Exploring
-- ![Robotics](https://your-image-url) **Robotics:** Building intelligent machines fascinates me. I love exploring the intersection of hardware and software to create innovative solutions.
+- ![Robotics]([https://your-image-url](https://unsplash.com/photos/two-white-and-black-electronic-device-with-wheels-6NUlOHM40w8)) **Robotics:** Building intelligent machines fascinates me. I love exploring the intersection of hardware and software to create innovative solutions.
 - ![Simulations](https://your-image-url) **Simulations:** Simulating complex systems allows me to experiment and understand real-world phenomena in controlled environments.
 - ![AI](https://your-image-url) **AI:** The endless possibilities of artificial intelligence intrigue me.
 
