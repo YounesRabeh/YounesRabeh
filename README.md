@@ -3,21 +3,21 @@
 I'm a computer science student with a passion for robotics, simulations, and AI. Currently, I'm diving deep into programming, mathematics, and physics to strengthen my foundation in these fields.
 
 ## 🌌 Exploring
-- 🤖 **Robotics:** Exploring the realm of intelligent machines.
-- 🎮 **Simulations:** Understanding complex systems through simulations.
+- 🤖 **Robotics:** Exploring the realm of machines.
+- 🎮 **Simulations:** replicating real life systems through computer simulations.
 - 🧠 **AI:** Delving into the endless possibilities of artificial intelligence.
 
 ## 📚 Learning
-- 💻 **Programming:** Mastering languages like Java, Python, C++, and Flutter.
-- 📐 **Mathematics:** Strengthening mathematical prowess for problem-solving.
+- 💻 **Programming:** Mastering languages like Java, Python, c/C++, SCQ and Flutter.
+- 📐 **Mathematics:** Enhancing mathematical skills for problem-solving.
 - 🌌 **Physics:** Comprehending the fundamental laws of nature.
 
 ## 🚀 Interests
 - 🌐 **IoT:** Exploring device interconnectedness and efficiency.
-- 📱 **App Development:** Crafting impactful applications with Flutter.
+- 📱 **App Development:** Crafting usefull applications with Flutter.
 - ⚙️ **Microcontrollers:** Building embedded systems and IoT devices.
 
 ## 📫 Let's Connect!
 Feel free to reach out to me at [rabehyounes@gmail.com](mailto:rabehyounes@gmail.com) to collaborate on exciting projects or simply discuss shared interests.
 
-Let's embark on a journey of innovation and learning together!
+Let's embark on a journey of innovation and learning together ;)      
