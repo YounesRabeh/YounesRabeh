@@ -7,11 +7,6 @@ I'm a computer science student with a passion for robotics, simulations, and AI.
 - 🎮 **Simulations:** replicating real life systems through computer simulations.
 - 🧠 **AI:** Delving into the endless possibilities of artificial intelligence.
 
-## 📚 Learning
-- 💻 **Programming:** Mastering languages like Java, Python, c/C++, SCQ and Flutter.
-- 📐 **Mathematics:** Enhancing mathematical skills for problem-solving.
-- 🌌 **Physics:** Comprehending the fundamental laws of nature.
-
 ## 🚀 Interests
 - 🌐 **IoT:** Exploring device interconnectedness and efficiency.
 - 📱 **App Development:** Crafting usefull applications with Flutter.
