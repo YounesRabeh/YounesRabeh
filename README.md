@@ -7,6 +7,6 @@ I'm a computer science student passionate about robotics, simulations, and AI. I
 - ⚙️ **Microcontrollers:** Building embedded systems and IoT devices.
 
 ## 📫 Let's Connect!
-Feel free to contact me at [rabehyounes@gmail.com](mailto:rabehyounes@gmail.com) to collaborate on exciting projects or simply discuss shared interests.
+Contact me at [rabehyounes@gmail.com](mailto:rabehyounes9@gmail.com) to collaborate on exciting projects or discuss shared interests.
 
 Let's embark on a journey of innovation and learning together ;)      
