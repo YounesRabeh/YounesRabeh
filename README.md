@@ -11,7 +11,7 @@ I'm a computer science student passionate about robotics, simulations, and AI. I
     <img align = "left" src="https://skillicons.dev/icons?i=java,python,c,cpp,haskell", width="570" height="110" />
   </a>
   <br>
-  <img align = "left" src="https://skillicons.dev/icons?i=arduino,git,godot,figma,flutter", width="570" height="110"/>
+  <img align = "left" src="https://skillicons.dev/icons?i=arduino,pytorch,godot,figma,flutter", width="570" height="110"/>
 <div>
 
 ### 🚀 Interests 
