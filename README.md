@@ -3,7 +3,6 @@
 I'm a computer science student passionate about robotics, simulations, and AI. I'm diving deep into programming, mathematics, and physics to strengthen my foundation in these fields.
 
 ## 🚀 Interests
-- 📱 **App Development:** Crafting usefull applications with Flutter.
 - ⚙️ **Microcontrollers:** Building embedded systems and IoT devices.
 
 ## 📫 Let's Connect!
