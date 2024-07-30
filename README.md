@@ -17,7 +17,7 @@ I'm a computer science student passionate about robotics, simulations, and AI. I
 - 💻 **Software Development:** Creating desktop and mobile applications for practice.
 
 ## 📫 Let's Connect!
-Contact me at [rabehyounes@gmail.com](mailto:rabehyounes9@gmail.com) to collaborate or discuss shared interests. Also:
+Contact me [here](mailto:rabehyounes9@gmail.com) to collaborate or discuss shared interests. Also:
  
 <p align="left">
 <a href="https://instagram.com/younesrbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="younesrbh" height="40" width="50" /></a>
