@@ -48,9 +48,8 @@ I'm a computer science student passionate about robotics, simulations, and AI. I
 - ⚙️ **Microcontrollers:** Building embedded systems and IoT devices.
 
 ## 📫 Let's Connect!
-Contact me at [rabehyounes@gmail.com](mailto:rabehyounes9@gmail.com) to collaborate or discuss shared interests.
-
-Lesss go ;)      
+Contact me at [rabehyounes@gmail.com](mailto:rabehyounes9@gmail.com) to collaborate or discuss shared interests. Also:
+ 
 <p align="left">
 <a href="https://instagram.com/younesrbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="younesrbh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/younesrbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="younesrbh" height="30" width="40" /></a>
