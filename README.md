@@ -6,8 +6,8 @@ I'm a computer science student passionate about robotics, simulations, and AI. I
 
 <div align="left">
      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=younesrabeh&show_icons=true&locale=en&layout=compact&theme=algolia" alt="younesrabeh" style="width: 300px; height: auto; border: 4px solid #333; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.8); background-color: #111; padding: 10px; margin-left: 20px;" />
-    <img src="https://skillicons.dev/icons?i=java,python,cpp" width="400" height="100" alt="Languages" />
-    <img src="https://skillicons.dev/icons?i=arduino,figma,flutter" width="400" height="100" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=java,python,cpp" width="450" height="100" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=arduino,figma,flutter" width="450" height="100" alt="Tools" />
     
 </div>
 
