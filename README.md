@@ -3,31 +3,38 @@
 
 I enjoy working at the intersection of hardware and software, and my goal is to become an engineer capable of designing useful, efficient systems for everyone. I'm interested in:
 
-- 🩺 Currently recreating medical devices to explore computer engineering
-- 💻 Building full-stack applications and embedded projects inspired by real-world systems
----
+- ⚙️ Embedded systems & computer engineering exploration
+- 💻 Full-stack application development
+
 <table width="100%">
   <tr>
-    <td valign="top">
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts" width="400" alt="Languages" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=opencv,arduino,spring,qt,vue" width="400" alt="Tools and Frameworks" />
-</p>
-
-  </td>
-  <td valign="top" align="center">
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=younesrabeh&layout=compact&theme=algolia" width="100%" />
-</p>
-
-  </td>
+    <!-- Tech Stack -->
+    <td align="center" valign="top" width="55%">
+      <h2 style="color: white;">Tech Stack</h2>
+      <p align="center">
+        <img 
+          src="https://skillicons.dev/icons?i=c,cpp,java,python,ts" 
+          alt="Languages" 
+          width="550"
+        />
+      </p>
+      <p align="center">
+        <img 
+          src="https://skillicons.dev/icons?i=opencv,arduino,spring,qt,vue" 
+          alt="Frameworks and Tools" 
+          width="550"
+        />
+      </p>
+    </td>
+    <!-- Stats -->
+    <td align="center" valign="top" width="45%">
+      <h2 style="color: white;">Most Used Languages</h2>
+      <img 
+        src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=YounesRabeh&hide_title=true&layout=compact&theme=github_dark&count_private=true&border_color=00000000" 
+        alt="Top Languages" 
+        width="100%" 
+      />
+    </td>
   </tr>
 </table>
 
