@@ -21,7 +21,7 @@ I enjoy working at the intersection of hardware and software, and my goal is to 
   </td>
   <td valign="top" align="center">
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=younesrabeh&layout=compact&theme=algolia" width="100%" />
