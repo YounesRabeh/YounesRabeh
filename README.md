@@ -13,9 +13,9 @@ I enjoy working at the intersection of hardware and software, and my goal is to 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts" height="52" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts" width="350" alt="Languages" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=opencv,arduino,spring,qt,vue" height="52" alt="Tools and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=opencv,arduino,spring,qt,vue" width="350" alt="Tools and Frameworks" />
 </p>
 
   </td>
