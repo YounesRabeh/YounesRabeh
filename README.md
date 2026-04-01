@@ -1,25 +1,52 @@
- # Hi 👋
+# Younes Rabeh  
+**Computer Science Student | Embedded Systems • Software Development**
 
-I'm a computer science student passionate about robotics, simulations, and AI. I'm diving deep into programming, mathematics, and physics to strengthen my foundation in these fields.
+I enjoy working at the intersection of hardware and software, and my goal is to become an engineer capable of designing useful, efficient systems for everyone. I'm interested in:
 
-## 🛠️ Languages & Tools
+- 🩺 Recreating medical devices to explore computer engineering
+- 💻 Building full-stack applications and embedded projects inspired by real-world systems
+---
+<table width="100%">
+  <tr>
+    <td valign="top">
 
-<div align="left">
-     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=younesrabeh&show_icons=true&locale=en&layout=compact&theme=algolia" alt="younesrabeh" style="width: 350px; height: auto; border: 4px solid #333; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.8); background-color: #111; padding: 10px; margin-left: 20px;" />
-    <img src="https://skillicons.dev/icons?i=java,python,cpp" width="450" height="100" alt="Languages" />
-    <img src="https://skillicons.dev/icons?i=arduino,figma,flutter" width="450" height="100" alt="Tools" />
-    
-</div>
+## 🛠️ Tech Stack
 
-### 🚀 Interests 
-
-- ⚙️ **Microcontrollers:** Building embedded systems and IoT devices.
-- 💻 **Software Development:** Creating desktop and mobile applications for practice.
-
-## 📫 Let's Connect!
-Contact me [here](mailto:rabehyounes9@gmail.com) to collaborate or discuss shared interests. Also:
- 
 <p align="left">
-<a href="https://instagram.com/younesrbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="younesrbh" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/younesrbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="younesrbh" height="40" width="50" /></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts" height="52" alt="Languages" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=opencv,arduino,spring,qt,vue" height="52" alt="Tools and Frameworks" />
+</p>
+
+  </td>
+  <td valign="top" align="center">
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=younesrabeh&layout=compact&theme=algolia" width="100%" />
+</p>
+
+  </td>
+  </tr>
+</table>
+
+---
+
+
+
+---
+
+## 📫 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/younes-rabeh-09a853222/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+  &nbsp;&nbsp;
+     <a href="https://www.leetcode.com/younesrbh" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30" />
+  </a>
+     &nbsp;&nbsp;
+  <a href="https://instagram.com/younesrbh" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" />
+  </a>
 </p>
