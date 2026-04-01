@@ -33,20 +33,10 @@ I enjoy working at the intersection of hardware and software, and my goal is to 
 
 ---
 
-
-
----
-
-## 📫 Connect With Me
+Contact me [here](mailto:rabehyounes9@gmail.com) to collaborate or discuss shared interests.
 <p align="left">
-  <a href="https://www.linkedin.com/in/younes-rabeh-09a853222/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
-  &nbsp;&nbsp;
-     <a href="https://www.leetcode.com/younesrbh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30" />
-  </a>
-     &nbsp;&nbsp;
-  <a href="https://instagram.com/younesrbh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" />
-  </a>
+  <a href="https://www.linkedin.com/in/younes-rabeh-09a853222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="younes-rabeh-linkedin" height="40" width="50" /></a>
+  <a href="https://instagram.com/younesrbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="younesrbh" height="40" width="50" /></a>
+  <a href="https://www.leetcode.com/younesrbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="younesrbh" height="40" width="50" /></a>
+</p>
 </p>
