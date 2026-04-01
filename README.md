@@ -3,7 +3,7 @@
 
 I enjoy working at the intersection of hardware and software, and my goal is to become an engineer capable of designing useful, efficient systems for everyone. I'm interested in:
 
-- 🩺 Recreating medical devices to explore computer engineering
+- 🩺 Currently recreating medical devices to explore computer engineering
 - 💻 Building full-stack applications and embedded projects inspired by real-world systems
 ---
 <table width="100%">
