@@ -42,7 +42,7 @@ I enjoy working at the intersection of hardware and software, and my goal is to 
 
 Contact me [here](mailto:rabehyounes9@gmail.com) to collaborate or discuss shared interests.
 <p align="left">
-  <a href="https://www.linkedin.com/in/younes-rabeh-09a853222/" target="_blank">
+  <a href="https://www.linkedin.com/in/younes-rabeh/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50"/>
   </a>
   <a href="https://instagram.com/younesrbh" target="_blank">
