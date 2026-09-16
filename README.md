@@ -1,10 +1,11 @@
-# Younes Rabeh  
-**Computer Science Student | Embedded Systems • Software Development**
+# Younes Rabeh
+**CS Student @ UNICAM | Embedded Systems • Software Development**
 
-I enjoy working at the intersection of hardware and software, and my goal is to become an engineer capable of designing useful, efficient systems for everyone. I'm currently interested in:
+I enjoy working at the intersection of hardware and software, aiming to become an engineer who designs useful, efficient systems for everyone.
+You can get an overview of my work by checking out my [portfolio](https://portfolio.younesrabeh.workers.dev/), and I'm currently interested in:
 
-- ⚙️ Embedded systems, compilers and computer engineering exploration
-- 💻 Full-stack application development
+- ⚙️ Compilers & Computer Engineering
+- 💻 Full-stack Application Development
 
 <table width="100%">
   <tr>
@@ -40,7 +41,7 @@ I enjoy working at the intersection of hardware and software, and my goal is to 
 
 ---
 
-Contact me [here](mailto:rabehyounes9@gmail.com) to collaborate or discuss shared interests.
+Contact me via [email](mailto:rabehyounes9@gmail.com) to collaborate or discuss shared interests.
 <p align="left">
   <a href="https://www.linkedin.com/in/younes-rabeh/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50"/>
