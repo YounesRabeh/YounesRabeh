@@ -1,9 +1,9 @@
 # Younes Rabeh  
 **Computer Science Student | Embedded Systems • Software Development**
 
-I enjoy working at the intersection of hardware and software, and my goal is to become an engineer capable of designing useful, efficient systems for everyone. I'm interested in:
+I enjoy working at the intersection of hardware and software, and my goal is to become an engineer capable of designing useful, efficient systems for everyone. I'm currently interested in:
 
-- ⚙️ Embedded systems & computer engineering exploration
+- ⚙️ Embedded systems, compilers and computer engineering exploration
 - 💻 Full-stack application development
 
 <table width="100%">
