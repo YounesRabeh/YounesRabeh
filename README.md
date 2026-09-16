@@ -13,14 +13,14 @@ I enjoy working at the intersection of hardware and software, and my goal is to 
       <h2 style="color: white;">Tech Stack</h2>
       <p align="center">
         <img 
-          src="https://skillicons.dev/icons?i=c,cpp,java,python,ts" 
+          src="https://skillicons.dev/icons?i=c,cpp,rust,java,python,ts" 
           alt="Languages" 
           width="550"
         />
       </p>
       <p align="center">
         <img 
-          src="https://skillicons.dev/icons?i=opencv,arduino,spring,qt,vue" 
+          src="https://skillicons.dev/icons?i=bash,arduino,linux,spring,qt,vue" 
           alt="Frameworks and Tools" 
           width="550"
         />
